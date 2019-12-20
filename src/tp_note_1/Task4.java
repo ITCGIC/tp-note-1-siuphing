@@ -28,6 +28,5 @@ public class Task4 {
         double price=(duration/60)*0.05;
         System.out.println("Total call duration: "+th+"h "+tm+" mn"+ts+" s");
         System.out.println("Total cost of this call: "+price+"$");
-        System.out.println(duration);
     }
 }
